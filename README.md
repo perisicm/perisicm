@@ -2,7 +2,6 @@
 
  **Aspiring DevOps & Cloud Engineer**  
 Passionate about automation, infrastructure, and scalable systems.  
-Always learning. Always building.
 
 ---
 
