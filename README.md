@@ -1,12 +1,12 @@
-# Hi, I'm Milan 👋
+# Hi, I'm Milan 
 
-🚀 **Aspiring DevOps & Cloud Engineer**  
+ **Aspiring DevOps & Cloud Engineer**  
 Passionate about automation, infrastructure, and scalable systems.  
 Always learning. Always building.
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -18,7 +18,7 @@ Always learning. Always building.
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - ☁️ AWS – cloud infrastructure & services  
 - 🐳 Docker & Kubernetes – containerization & orchestration  
